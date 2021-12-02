@@ -1,4 +1,4 @@
-rachitnigam.com
+cs.cornell.edu/~keri
 ===============
 
 Rachit Nigam's personal website built using [Zola][].
